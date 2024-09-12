@@ -1,0 +1,127 @@
+.transparencia{
+
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.3), rgba(51, 168, 219, 0.3),  rgba(0, 0, 0, 0.3));
+}
+
+.transparencia2{
+
+    background-image: linear-gradient(to top, rgba(51, 168, 219, 0.3),  rgba(0, 0, 0, 0.3));
+}
+
+Body {
+
+
+    background-color: black;
+    text-align: center;
+    font-family: Raleway;
+    background-image: url(assets/images/banner.png);
+    background-repeat: no-repeat;
+
+
+}
+
+
+h1 {
+ font-family: Raleway black;
+    color: #33A8DB;
+   
+}
+
+h2{
+
+    color: #33A8DB;
+}
+
+p.paragrafo1 {
+
+color: white;
+text-align: center;
+}
+
+p.paragrafo2 {
+
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    }
+
+
+    p.paragrafo3 {
+        color: #33A8DB;
+        font-family: raleway semibold;
+        text-align: center;
+        letter-spacing: 5px;
+        font-size: 30px;
+    }
+
+    p.borda{
+
+        border-style: solid;
+        border-width: 1px;
+        border-color: #33A8DB;
+
+    }
+
+    
+
+    p.botao {
+
+        border-style: solid;
+        border-color: #33A8DB;
+         color: white;
+         font-size: small;
+          display:inline-flex;
+          border-radius: 20px;
+          margin-left: inherit;
+          height: 40px;
+          border-width: 1px;
+          width: 30%;
+          text-align: center;
+          align-items: center;
+          justify-content: center;
+          background-color: #252525;
+                  
+    }
+
+    button {
+        border-style: solid;
+        border-color: #33A8DB;
+        color:#33A8DB;
+        height: 60px;
+        width: 25%;
+        font-family: Raleway black;
+        font-size:medium;
+        background-color: transparent;
+        text-align: center;
+        letter-spacing: 3px;
+      
+
+    }
+
+    p.mulherCodando {
+
+        
+        border-style: solid;
+        border-width: 1px;
+        height: 350px;
+        border-color: #33A8DB;
+        font-family: Raleway black;
+        font-size: 38px;
+        text-shadow: 3px 3px rgba(51, 168, 219);
+        color: white;
+        background-image: url(assets/images/woman-code.png);
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: 50% 40%;
+        position:relative;
+        
+
+    }
+
+    p.mulherCodando span {
+        position: absolute;
+        top: 30%; 
+        left: 15%;
+        transform: translate(30, 60%); 
+      }
+
