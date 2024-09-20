@@ -1,0 +1,218 @@
+
+body {
+
+    font-family: Roboto Regular;
+
+
+}
+
+.youtubelogo{
+
+    margin-top: 20px;
+    margin-right: 20px;
+    display: flex;
+    height: 25px;
+    gap: 30px;
+    
+    }
+    
+    .searchbar {
+       
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin:auto;
+    
+        }
+    
+    .searchbar img {
+        align-items: center;
+        justify-content: center;
+        margin-left: -300px;
+    
+    }
+    
+    .video {
+        display: flex;
+        margin-top: 30px;
+        margin-left: 30px;
+        margin-bottom: 1px;
+        flex-direction: column;
+        white-space: nowrap;
+        height:750px;
+
+        
+    }
+    
+    #imagemvideogrande{
+     width: 1300px;
+    height: 800px;
+    
+    }
+    
+    h3 {
+
+        margin-left: 30px;
+    }
+
+   .videospequenos{
+        display: flex;
+        margin-left: 1320px;
+        width: 350x;
+        width: 200px;
+        position: absolute;
+        flex-direction: column;
+        margin-bottom: 10px;
+        
+
+    }
+
+    .textovideos {
+
+        display: block;
+        margin-left: 200px;
+        position: absolute;
+        white-space: nowrap;
+        margin-top: 10px;
+
+
+     
+
+    }
+
+    #subtitulo1 {
+    
+        font-size: 14px;
+       color:rgb(141, 130, 132);
+       gap:100px;
+
+       margin-bottom: 70px;
+    }
+
+    #subtitulo2 {
+    
+        font-size: 14px;
+       color:rgb(141, 130, 132);
+   
+
+       margin-bottom: 60px;
+    }
+
+    #subtitulo3 {
+    
+        font-size: 14px;
+       color:rgb(141, 130, 132);
+
+       margin-bottom: 60px;
+    }
+
+    #subtitulo4 {
+    
+        font-size: 14px;
+       color:rgb(141, 130, 132);
+
+       margin-bottom: 60px;
+    }
+
+    #subtitulo5 {
+    
+        font-size: 14px;
+       color:rgb(141, 130, 132);
+
+
+       margin-bottom: 67px;
+    }
+
+    #subtitulo6 {
+    
+        font-size: 14px;
+       color:rgb(141, 130, 132);
+  
+
+       margin-bottom: 60px;
+    }
+
+
+    
+    #subtitulo7 {
+    
+        font-size: 14px;
+       color:rgb(141, 130, 132);
+   
+
+       margin-bottom: 60px;
+    }
+
+
+
+    
+    #subtitulo8 {
+    
+        font-size: 14px;
+       color:rgb(141, 130, 132);
+  
+
+       margin-bottom: 75px;
+    }
+
+    
+    #subtitulo9 {
+    
+        font-size: 14px;
+       color:rgb(141, 130, 132);
+
+
+       margin-bottom: 50px;
+    }
+
+
+
+    #subtitulo10 {
+    
+        font-size: 14px;
+       color:rgb(141, 130, 132);
+
+
+
+    }
+
+
+    .menuvideo {
+    
+        display: flex;
+        flex-direction: row;
+        margin-left: 30px;
+
+    
+                
+    }
+    
+    .menuvideo img{
+    
+        display: flex;
+        margin-right: 15px;
+        
+    }
+    
+    
+    .menuvideo h4{
+    
+    margin-right: 50px;
+    
+    }
+    
+    #subscribe {
+    
+        margin-right: 690px;
+    }
+    
+    .textinho {
+        
+        display: block;
+        margin-left: 30px;
+        font-size: 15px;
+        white-space: pre-line; 
+
+    
+    }
+
