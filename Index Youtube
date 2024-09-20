@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styleYoutube.css">
+  <title>Trilha de CSS - Página Youtube</title>
+</head>
+<body>
+
+  </header>
+
+
+
+  <content class="youtubelogo"> 
+
+    <img src="assets/menu.png"  title="menu" alt="menu">
+    <img src="assets/youtube-logo.png"  title="logoyoutube" alt="logoyoutube">
+
+
+    <content class="searchbar">
+    <img src="assets/searchbar.png"   title="menu" alt="menu">
+
+    </content>
+  </content>
+<br>
+    <content class="video">
+
+      <img src="assets/video.png"   title="videogatomario" alt="videogatomario" id="imagemvideogrande">
+           
+      <content class="videospequenos"> 
+      <img src="assets/video1.jpg" >
+      <img src="assets/video2.jpg">
+      <img src="assets/video3.jpg" >
+      <img src="assets/video4.jpg" >
+      <img src="assets/video5.jpg" >
+      <img src="assets/video6.jpg" >
+      <img src="assets/video7.jpg" >
+      <img src="assets/video8.jpg" >
+      <img src="assets/video9.jpg" >
+      <img src="assets/video10.jpg" >
+
+      <content class="textovideos"> 
+        <strong> Super Mario  </strong> <br>
+        <p id="subtitulo1">  Mr.TVCow 10M VIEWS </p>
+      
+        <strong> Super Mario  </strong> <br>
+        <p id="subtitulo2">  Mr.TVCow 10M VIEWS </p>
+
+        <strong> Super Mario  </strong> <br>
+        <p id="subtitulo3">  Mr.TVCow 10M VIEWS </p>
+
+        <strong> Super Mario  </strong> <br>
+        <p id="subtitulo4">  Mr.TVCow 10M VIEWS </p>
+
+        <strong> Super Mario  </strong> <br>
+        <p id="subtitulo5">  Mr.TVCow 10M VIEWS </p>
+        
+        <strong> Super Mario  </strong> <br>
+        <p id="subtitulo6">  Mr.TVCow 10M VIEWS </p>
+
+        <strong> Super Mario  </strong> <br>
+        <p id="subtitulo7">  Mr.TVCow 10M VIEWS </p>
+
+        <strong> Super Mario  </strong> <br>
+        <p id="subtitulo8">  Mr.TVCow 10M VIEWS </p>
+
+
+        <strong> Super Mario  </strong> <br>
+        <p id="subtitulo9">  Mr.TVCow 10M VIEWS </p>
+
+        
+        <strong> Super Mario  </strong> <br>
+        <p id="subtitulo10">  Mr.TVCow 10M VIEWS </p>
+
+      
+      </content>
+
+
+
+    </content>
+
+
+
+    </content>
+  </content>
+      <h3> Super Mario Cat Bros! </h3> 
+  
+ 
+
+    <content class="menuvideo"> 
+      <img src="assets/avatar.jpg"   title="avatar" alt="avatar"  height="47px" width="50px">
+
+      <h4>  Mr.TVCow </h4>
+   
+      <img src="assets/subscribe.png"   title="subsscribe" alt="subscribe" width="100px" height="44px" id="subscribe">
+
+      <img src="assets/like.png"   title="like" alt="like" width="148px" height="47px">
+      <img src="assets/share.png"   title="share" alt="share" width="98px" height="47px">
+      <img src="assets/menu3pontinhos.png"   title="menu3pontinhos" alt="menu3pontinhos" width="49px" height="42px">
+
+    </content>
+
+
+    <content class="textinho"> 
+      <strong>163,591,700 views  Feb 1, 2018</strong>
+      Super Mario Cat and Luigi begin their adventure to save the Princess! 
+      SUBSCRIBE for more videos ► <a href="http://bit.ly/IWantMORE">http://bit.ly/IWantMORE</a>
+      
+      Watch next:  
+      Cats vs Zombies ► <a href="http://youtu.be/bcENL_Vdoqw">Cats vs Zombies!</a>
+      Bunny's Adventure ► <a href="http://youtu.be/svL62PpJjkY">Bunny SURVIVES in a Fantasy World!</a>
+      
+      Directed by Mike Tivikoff  
+      Music by Jon Bjork  
+      
+      Facebook! <a href="https://fb.com/mrtvcow">https://fb.com/mrtvcow</a>
+      Instagram! <a href="https://instagram.com/tivikoff">/tivikoff</a>
+      Twitter! <a href="https://twitter.com/mrtvcow">/mrtvcow</a>
+  </content>
+
+<content class="videos">
+
+
+    
+</content>
+
+  <main>
+
+  </main>
+ 
+  <footer>
+    
+  </div>
+  </footer>
+</body>
+</html>
